@@ -5,6 +5,7 @@ int main(void) {
 	int count = 0;	
 
 	while ((c = getchar()) != EOF) {
+		printf("%c", c);
 		count++;
 	}
 
