@@ -12,7 +12,6 @@ print_row_loop_cond:
 
 print_row_loop_body:
 
-print_star_loop_init:
 	li	$t1, 0	# int j = 0
 
 print_star_loop_cond:
